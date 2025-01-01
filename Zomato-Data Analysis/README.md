@@ -22,6 +22,7 @@ This project leverages a range of visual techniques:
 - Higher-rated restaurants tend to cluster in specific regions, suggesting geographic influences.
 - Pricing is not always a strong predictor of ratings, hinting at other influential factors like service quality.
 - A combination of location, cuisine type, and restaurant attributes plays a significant role in influencing ratings.
+- An update of the dataset has been released 
 
 ## Environment Setup ⚙️
 
